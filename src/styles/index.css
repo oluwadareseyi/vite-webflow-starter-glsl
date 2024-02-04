@@ -2,3 +2,20 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.container {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#canvas {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}

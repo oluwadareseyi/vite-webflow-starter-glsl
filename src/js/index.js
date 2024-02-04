@@ -1,6 +1,7 @@
 import "../styles/index.css";
+import Canvas from "./animations/canvas";
 import { showBody } from "./animations/starter";
 
 showBody();
 
-console.log("Hello, Vite!");
+const canvas = new Canvas();
