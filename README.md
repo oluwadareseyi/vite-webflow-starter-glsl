@@ -16,8 +16,9 @@
   ```
 
 5. Replace `http://localhost:3000` with the URL of your Codesandbox project.
-6. Save and publish your Webflow project.
-7. You should now see your changes in real time.
+6. Make sure to edit the code in the `canvas.js` file to match your Webflow elements.
+7. Save and publish your Webflow project.
+9. You should now see your changes in real time.
 
 > I used [Curtainsjs](https://www.curtainsjs.com/) for the WebGL example. You can use whatever library you choose.
 >
