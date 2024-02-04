@@ -19,6 +19,9 @@
 6. Save and publish your Webflow project.
 7. You should now see your changes in real time.
 
+> I used [Curtainsjs](https://www.curtainsjs.com/) for the WebGL example. You can use whatever library you choose.
+>
+
 > Because codesandbox servers don't run forever, you will need to build your project for production by running `yarn build` and host the generated `index.js` file someplace.
 >
 
